@@ -14,8 +14,8 @@ To mark a todo as completed, click on the checkbox next to the todo text.
 To delete a todo, click the 'X' button next to it.
 
 The todo items are saved in localStorage so they persist between page loads.
-Files
 
-    index.html - The main HTML page
-    style.css - Stylesheet for styling the page
-    script.js - JavaScript code for adding functionality
+
+index.html - The main HTML page
+style.css - Stylesheet for styling the page
+script.js - JavaScript code for adding functionality
